@@ -1,0 +1,129 @@
+<root>
+	<terreno id="0" name="ghiaia" img="immagini/ghiaia1.jpg">
+		ghiaia
+	</terreno>
+	<terreno id="1" name="ghiaia grossa" img="immagini/ghiaiaGrossa.jpg">
+		ghiaia grossa
+	</terreno>
+	<terreno id="2" name="argilla" img="immagini/argilla1.jpg">
+		argilla
+	</terreno>
+	<terreno id="3" name="basalto" img="immagini/basalto.jpg">
+		basalto
+	</terreno>
+	<terreno id="4" name="ciotoli" img="immagini/ciotoli1.jpg">
+		ciotoli
+	</terreno>
+	<terreno id="5" name="conglomerato" img="immagini/conglomerato4.jpg">
+		conglomerato
+	</terreno>
+	<terreno id="6" name="granito" img="immagini/granito.jpg">
+		granito
+	</terreno>
+	<terreno id="7" name="sabbia gialla" img="immagini/sabbia.jpg">
+		sabbia
+	</terreno>
+	<terreno id="8" name="sabbia grigia" img="immagini/sabbiaGrigia.jpg">
+		sabbia
+	</terreno>
+	<terreno id="9" name="sabbia argilla" img="immagini/sabbiaArgilla.jpg">
+		sabbia mista argilla
+	</terreno>
+	<terreno id="10" name="sabbia ghiaia" img="immagini/sabbiaGhiaia.jpg">
+		sabbia mista ghiaia
+	</terreno>
+	<terreno id="11" name="tufo" img="immagini/tufo1.jpg">
+		tufo
+	</terreno>
+	<terreno id="12" name="terreno vegetale" img="immagini/terrenoVegetale.png">
+		terreno vegetale
+	</terreno>
+	<terreno id="13" name="terreno di riporto" img="immagini/terrenoRiporto.png">
+		terreno di riporto
+	</terreno>
+	<terreno id="14" name="Argilla ghiaia" img="immagini/argillaGhiaia.png">
+		argilla mista ghiaia
+	</terreno>
+	<terreno id="15" name="Argilla scura" img="immagini/argillaScura.png">
+		argilla scura
+	</terreno>
+	<terreno id="16" name="Argilla strati ghiaia" img="immagini/argillaStratiGhiaia.png">
+		argilla con strati di ghiaia
+	</terreno>
+	<terreno id="17" name="Ghiaia sporca" img="immagini/ghiaiaSporca.png">
+		ghiaia sporca
+	</terreno>
+	<terreno id="18" name="Sabbia grossa" img="immagini/sabbiaGrossa.png">
+		sabbia grossa
+	</terreno>
+	<terreno id="19" name="sabbia mista ghiaia" img="immagini/sabbiMistaGhiaia.png">
+		sabbia mista ghiaia
+	</terreno>
+	
+	
+	
+	
+	
+
+
+
+
+	<riempimento id="0" name="drenaggio" img="immagini/ghiaia1.jpg">
+		drenaggio
+	</riempimento>
+	<riempimento id="1" name="ghiaia grossa" img="immagini/ghiaiaGrossa.jpg">
+		ghiaia grossa
+	</riempimento>
+	<riempimento id="2" name="argilla" img="immagini/argilla1.jpg">
+		argilla
+	</riempimento>
+	<riempimento id="3" name="basalto" img="immagini/basalto.jpg">
+		basalto
+	</riempimento>
+	<riempimento id="4" name="ciotoli" img="immagini/ciotoli1.jpg">
+		ciotoli
+	</riempimento>
+	<riempimento id="5" name="conglomerato" img="immagini/conglomerato4.jpg">
+		conglomerato
+	</riempimento>
+	<riempimento id="6" name="granito" img="immagini/granito.jpg">
+		granito
+	</riempimento>
+	<riempimento id="7" name="sabbia gialla" img="immagini/sabbia.jpg">
+		sabbia
+	</riempimento>
+	<riempimento id="8" name="sabbia grigia" img="immagini/sabbiaGrigia.jpg">
+		sabbia
+	</riempimento>
+	<riempimento id="9" name="sabbia argilla" img="immagini/sabbiaArgilla.jpg">
+		sabbia mista argilla
+	</riempimento>
+	<riempimento id="10" name="sabbia ghiaia" img="immagini/sabbiaGhiaia.jpg">
+		sabbia mista ghiaia
+	</riempimento>
+	<riempimento id="11" name="tufo" img="immagini/tufo1.jpg">
+		tufo
+	</riempimento>
+
+
+	<filtro id="0" name="microfessurato" img="immagini/filtroMicrofessurato.png">
+		microfessurato
+	</filtro>
+	<filtro id="1" name="passante" img="immagini/filtroPassante.jpg">
+		passante
+	</filtro>
+	<filtro id="2" name="ponte" img="immagini/filtroPonte.jpg">
+		ponte
+	</filtro>
+	<filtro id="3" name="rete" img="immagini/filtroRete.jpg">
+		rete
+	</filtro>
+	
+	<riempimento id="12" name="compattonite" img="immagini/argilla1.jpg">
+		compattonite
+	</riempimento>
+	<riempimento id="13" name="interte" img="immagini/sabbiaGhiaia.jpg">
+		consolidamento con inerte
+	</riempimento>
+</root>
+
